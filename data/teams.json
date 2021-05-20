@@ -5,7 +5,9 @@
     "players": [
       "ACCM",
       "Badboy",
-      "SongSong"
+      "CooL",
+      "SongSong",
+      "Yellow"
     ]
   },
   {
@@ -14,7 +16,8 @@
     "players": [
       "Alive",
       "F1Re",
-      "Goku"
+      "Goku",
+      "RiuT"
     ]
   },
   {
@@ -22,7 +25,10 @@
     "abbreviation": null,
     "players": [
       "Biry",
-      "Hoang"
+      "Hoang",
+      "Twigg",
+      "Wisepii",
+      "Chart"
     ]
   },
   {
@@ -68,7 +74,20 @@
     "abbreviation": null,
     "players": [
       "Darknoob",
-      "DracKeN"
+      "DracKeN",
+      "JonSlow"
+    ]
+  },
+  {
+    "name": "GamerLegion",
+    "abbreviation": "GL",
+    "players": [
+      "DauT",
+      "JorDan",
+      "Nili",
+      "TaToH",
+      "TheViper",
+      "Slam"
     ]
   },
   {
@@ -90,7 +109,9 @@
     "abbreviation": null,
     "players": [
       "Edie",
+      "Feanor",
       "LaaaaaN",
+      "Melkor",
       "dogao",
       "Miguel"
     ]
@@ -103,6 +124,7 @@
       "GoldenEnd",
       "Hallis",
       "Kamigawa",
+      "Noisick",
       "Rise",
       "Vodka"
     ]
@@ -115,20 +137,27 @@
     ]
   },
   {
+    "name": "Aftermath",
+    "abbreviation": "aM",
+    "players": [
+      "Hearttt",
+      "MbL",
+      "Nicov"
+    ]
+  },
+  {
+    "name": "Tempo Storm",
+    "abbreviation": "Tempo",
+    "players": [
+      "Hera",
+      "Liereyy"
+    ]
+  },
+  {
     "name": "DevilZ",
     "abbreviation": null,
     "players": [
       "DevilZ_High"
-    ]
-  },
-  {
-    "name": "GamerLegion",
-    "abbreviation": "GL",
-    "players": [
-      "JorDan",
-      "TaToH",
-      "TheViper",
-      "Slam"
     ]
   },
   {
@@ -159,25 +188,12 @@
     ]
   },
   {
-    "name": "Tempo Storm",
-    "abbreviation": "Tempo",
-    "players": [
-      "Liereyy"
-    ]
-  },
-  {
     "name": "Nadya's Boys",
     "abbreviation": null,
     "players": [
       "Lojza",
+      "Mentalist",
       "Spaden"
-    ]
-  },
-  {
-    "name": "Aftermath",
-    "abbreviation": "aM",
-    "players": [
-      "Nicov"
     ]
   },
   {
@@ -213,6 +229,7 @@
     "abbreviation": "SalzZ",
     "players": [
       "Vinch",
+      "WaRRioR",
       "classicpro"
     ]
   },
