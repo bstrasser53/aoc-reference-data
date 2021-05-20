@@ -5,8 +5,7 @@
     "players": [
       "ACCM",
       "Badboy",
-      "SongSong",
-      "Yellow"
+      "SongSong"
     ]
   },
   {
@@ -15,8 +14,7 @@
     "players": [
       "Alive",
       "F1Re",
-      "Goku",
-      "RiuT"
+      "Goku"
     ]
   },
   {
@@ -24,10 +22,7 @@
     "abbreviation": null,
     "players": [
       "Biry",
-      "Hoang",
-      "Twigg",
-      "Wisepii",
-      "Chart"
+      "Hoang"
     ]
   },
   {
@@ -60,13 +55,6 @@
     ]
   },
   {
-    "name": "KYO All Fallen",
-    "abbreviation": null,
-    "players": [
-      "Cloud"
-    ]
-  },
-  {
     "name": "MYinsanity",
     "abbreviation": null,
     "players": [
@@ -80,20 +68,7 @@
     "abbreviation": null,
     "players": [
       "Darknoob",
-      "DracKeN",
-      "JonSlow"
-    ]
-  },
-  {
-    "name": "GamerLegion",
-    "abbreviation": "GL",
-    "players": [
-      "DauT",
-      "JorDan",
-      "Nili",
-      "TaToH",
-      "TheViper",
-      "Slam"
+      "DracKeN"
     ]
   },
   {
@@ -115,9 +90,7 @@
     "abbreviation": null,
     "players": [
       "Edie",
-      "Feanor",
       "LaaaaaN",
-      "Melkor",
       "dogao",
       "Miguel"
     ]
@@ -130,7 +103,6 @@
       "GoldenEnd",
       "Hallis",
       "Kamigawa",
-      "Noisick",
       "Rise",
       "Vodka"
     ]
@@ -143,27 +115,20 @@
     ]
   },
   {
-    "name": "Aftermath",
-    "abbreviation": "aM",
-    "players": [
-      "Hearttt",
-      "MbL",
-      "Nicov"
-    ]
-  },
-  {
-    "name": "Tempo Storm",
-    "abbreviation": "Tempo",
-    "players": [
-      "Hera",
-      "Liereyy"
-    ]
-  },
-  {
     "name": "DevilZ",
     "abbreviation": null,
     "players": [
       "DevilZ_High"
+    ]
+  },
+  {
+    "name": "GamerLegion",
+    "abbreviation": "GL",
+    "players": [
+      "JorDan",
+      "TaToH",
+      "TheViper",
+      "Slam"
     ]
   },
   {
@@ -194,12 +159,25 @@
     ]
   },
   {
+    "name": "Tempo Storm",
+    "abbreviation": "Tempo",
+    "players": [
+      "Liereyy"
+    ]
+  },
+  {
     "name": "Nadya's Boys",
     "abbreviation": null,
     "players": [
       "Lojza",
-      "Mentalist",
       "Spaden"
+    ]
+  },
+  {
+    "name": "Aftermath",
+    "abbreviation": "aM",
+    "players": [
+      "Nicov"
     ]
   },
   {
@@ -235,7 +213,6 @@
     "abbreviation": "SalzZ",
     "players": [
       "Vinch",
-      "WaRRioR",
       "classicpro"
     ]
   },
