@@ -21,35 +21,23 @@
     ]
   },
   {
+    "name": "White Wolf Palace",
+    "abbreviation": null,
+    "players": [
+      "Bad Koala",
+      "CL",
+      "Yo",
+      "Paladin"
+    ]
+  },
+  {
     "name": "DarkSidE",
     "abbreviation": null,
     "players": [
       "Biry",
       "Hoang",
-      "Twigg",
       "Wisepii",
       "Chart"
-    ]
-  },
-  {
-    "name": "The BrotherHood Kappa",
-    "abbreviation": null,
-    "players": [
-      "Bruh"
-    ]
-  },
-  {
-    "name": "White Wolf Palace",
-    "abbreviation": null,
-    "players": [
-      "CL",
-      "Lyx",
-      "Yo",
-      "Paladin",
-      "StrayDog",
-      "Tim",
-      "Whoop",
-      "Vivi"
     ]
   },
   {
@@ -86,18 +74,6 @@
     ]
   },
   {
-    "name": "GamerLegion",
-    "abbreviation": "GL",
-    "players": [
-      "DauT",
-      "JorDan",
-      "Nili",
-      "TaToH",
-      "TheViper",
-      "Slam"
-    ]
-  },
-  {
     "name": "SuNo",
     "abbreviation": null,
     "players": [
@@ -119,7 +95,6 @@
       "Feanor",
       "LaaaaaN",
       "Melkor",
-      "dogao",
       "Miguel"
     ]
   },
@@ -132,7 +107,6 @@
       "Hallis",
       "Kamigawa",
       "Noisick",
-      "Rise",
       "Vodka"
     ]
   },
@@ -148,7 +122,6 @@
     "abbreviation": "aM",
     "players": [
       "Hearttt",
-      "MbL",
       "Nicov"
     ]
   },
@@ -165,6 +138,16 @@
     "abbreviation": null,
     "players": [
       "DevilZ_High"
+    ]
+  },
+  {
+    "name": "GamerLegion",
+    "abbreviation": "GL",
+    "players": [
+      "JorDan",
+      "Nili",
+      "TaToH",
+      "TheViper"
     ]
   },
   {
@@ -187,14 +170,6 @@
     ]
   },
   {
-    "name": "New Chapter",
-    "abbreviation": null,
-    "players": [
-      "LB10",
-      "Skittle"
-    ]
-  },
-  {
     "name": "Nadya's Boys",
     "abbreviation": null,
     "players": [
@@ -204,17 +179,10 @@
     ]
   },
   {
-    "name": "Berserkers",
+    "name": "New Chapter",
     "abbreviation": null,
     "players": [
-      "Poisn"
-    ]
-  },
-  {
-    "name": "PetGunPet",
-    "abbreviation": "PGP",
-    "players": [
-      "Stefan"
+      "Skittle"
     ]
   },
   {
@@ -238,13 +206,6 @@
       "Vinch",
       "WaRRioR",
       "classicpro"
-    ]
-  },
-  {
-    "name": "Fei Mei San Dao",
-    "abbreviation": null,
-    "players": [
-      "Jibatong"
     ]
   }
 ]

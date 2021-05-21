@@ -1476,6 +1476,7 @@
     - '300649'
     - '4956328'
   liquipedia: FeAge
+  youtube: http://www.youtube.com/channel/UCYhsraJ7ht7qYpZuHht-ibA
 - name: Noto
   country: cn
   platforms:
@@ -1693,6 +1694,7 @@
     - '4053'
     de:
     - '1657293'
+  liquipedia: bvirus
 - name: Hackl
   country: de
   platforms:
@@ -2447,6 +2449,7 @@
     de:
     - '280459'
     - '985308'
+  liquipedia: RecoN
 - name: BL4CK
   country: ar
   platforms:
@@ -2507,6 +2510,9 @@
     - '1451847'
     - '1195260'
     - '1784541'
+  liquipedia: Kellar
+  twitch: https://www.twitch.tv/Kellar_AoE
+  youtube: http://www.youtube.com/channel/UCXcnO_W-YHuIrfGRnEwUlVg
 - name: Carbo
   country: ar
   platforms:
