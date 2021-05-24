@@ -26,8 +26,11 @@
     "players": [
       "Bad Koala",
       "CL",
+      "Lyx",
       "Yo",
       "Paladin",
+      "StrayDog",
+      "Tim",
       "Vivi"
     ]
   },
@@ -40,6 +43,13 @@
       "Twigg",
       "Wisepii",
       "Chart"
+    ]
+  },
+  {
+    "name": "The BrotherHood Kappa",
+    "abbreviation": null,
+    "players": [
+      "Bruh"
     ]
   },
   {
@@ -77,6 +87,18 @@
     ]
   },
   {
+    "name": "GamerLegion",
+    "abbreviation": "GL",
+    "players": [
+      "DauT",
+      "JorDan",
+      "Nili",
+      "TaToH",
+      "TheViper",
+      "Slam"
+    ]
+  },
+  {
     "name": "SuNo",
     "abbreviation": null,
     "players": [
@@ -98,6 +120,7 @@
       "Feanor",
       "LaaaaaN",
       "Melkor",
+      "dogao",
       "Miguel"
     ]
   },
@@ -110,6 +133,7 @@
       "Hallis",
       "Kamigawa",
       "Noisick",
+      "Rise",
       "Vodka"
     ]
   },
@@ -125,6 +149,7 @@
     "abbreviation": "aM",
     "players": [
       "Hearttt",
+      "MbL",
       "Nicov"
     ]
   },
@@ -141,16 +166,6 @@
     "abbreviation": null,
     "players": [
       "DevilZ_High"
-    ]
-  },
-  {
-    "name": "GamerLegion",
-    "abbreviation": "GL",
-    "players": [
-      "JorDan",
-      "Nili",
-      "TaToH",
-      "TheViper"
     ]
   },
   {
@@ -173,6 +188,14 @@
     ]
   },
   {
+    "name": "New Chapter",
+    "abbreviation": null,
+    "players": [
+      "LB10",
+      "Skittle"
+    ]
+  },
+  {
     "name": "Nadya's Boys",
     "abbreviation": null,
     "players": [
@@ -182,10 +205,17 @@
     ]
   },
   {
-    "name": "New Chapter",
+    "name": "Berserkers",
     "abbreviation": null,
     "players": [
-      "Skittle"
+      "Poisn"
+    ]
+  },
+  {
+    "name": "PetGunPet",
+    "abbreviation": null,
+    "players": [
+      "Stefan"
     ]
   },
   {
